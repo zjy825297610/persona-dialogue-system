@@ -1,0 +1,51 @@
+wandb_version: 1
+
+BATCH_SIZE:
+  desc: null
+  value: 25
+EPOCHES:
+  desc: null
+  value: 100
+dataset_name:
+  desc: null
+  value: banking
+model_name:
+  desc: null
+  value: VAE_semi
+n:
+  desc: null
+  value: 58
+num_warmup_rate:
+  desc: null
+  value: 0.05
+seed:
+  desc: null
+  value: 42
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.4
+    cli_version: 0.17.0
+    framework: huggingface
+    huggingface_version: 4.28.1
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1718594620
+    t:
+      1:
+      - 1
+      - 11
+      - 12
+      - 49
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.11.4
+      5: 0.17.0
+      6: 4.28.1
+      8:
+      - 5
+      - 13
+      13: linux-x86_64
