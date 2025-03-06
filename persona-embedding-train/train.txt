@@ -1,0 +1,3 @@
+数据集：convai2
+模型对比：bert ，bge ，roberta，gpt2，qwen2
+评价指标：recall， precision， mrr，nDCG
